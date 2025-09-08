@@ -1,0 +1,11 @@
+{
+	"name": "ESP RS",
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+	"runArgs": [ //"--privileged", 
+        "--rm", 
+        "-v", "/dev:/dev",
+		"--device-cgroup-rule","c 188:* rmw"
+    ]
+}
