@@ -1,7 +1,7 @@
 # esp-rs-devcontainer
 DevContainer for Rust on Espressif microcontrollers 🤩 😃.
 
-Tested on Linux (Ubuntu 22.04.5 LTS) using [espressif/idf-rust:esp32s3_latest](https://hub.docker.com/layers/espressif/idf-rust/esp32s3_latest/images/sha256-a6c7938cff87f201a01ace1185c0ef70aca00445b4648e61d046d46108ba99fb) image for ```esp32c3``` devboard. 
+Tested on Linux (Ubuntu 22.04.5 LTS) using [espressif/idf-rust:esp32c3_latest](https://hub.docker.com/layers/espressif/idf-rust/esp32c3_latest/images/sha256-7ce30fba75dd940d5b2406f706c399bf2318fe701da79819bdaa7b39b30a152d) image for ```esp32c3``` devboard. 
 
 Feel free to try out other dev board images found in [espressif/idf-rust](https://hub.docker.com/r/espressif/idf-rust/tags)
 
